@@ -139,5 +139,8 @@ MIT License. See LICENSE for details.
 
 ---
 
-## 🎉 Acknowledgments
-Developed as part of the first semester project at Ostfalia University of Applied Sciences.
+Developed with ❤️ by **Darshan Shah**. Let's connect!
+
+- 🔗 **GitHub**: [DarshanScripts](https://github.com/DarshanScripts)
+- 🔗 **Quora**: [Darshan Shah](https://www.quora.com/profile/Darshan-Shah-1056)
+- 🔗 **Medium**: [DarshanScripts](https://medium.com/@DarshanScripts)
