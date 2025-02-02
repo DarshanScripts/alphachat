@@ -10,7 +10,7 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ### 🛠️ For Service Providers
 
-![Admin Features Demo](Admin_Features_Demo.mp4)
+[Admin Features Demo](https://github.com/user-attachments/assets/7b0d17a0-9efb-4e29-9f76-99d39c94f441)
 
 - **Console App for Testing**: A straightforward console-based chatbot for feature testing.
 - **Customizable Q&A Content**: Import questions and answers via CSV files. Edit and manage questions/answers using CLI arguments.
@@ -20,14 +20,15 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ### 🙋 For End Users
 
-![User Features Demo 1](User_Features_Demo_1.mp4)
+[User Features Demo 1](https://github.com/user-attachments/assets/a1246346-12fd-4e0c-a230-dc06838a6f61)
 
 - **Interactive Chatbot**: Welcoming messages and opening questions. Handles CLI arguments to skip initial prompts.
 - **Trivia Game**: Built-in trivia game with multiple-choice questions. Displays progress indicators and ✅/❌ symbols for answers.
 - **Weather Integration**: Provides weather conditions for specific locations or events.
 - **Error Handling**: Gracefully handles crashes with detailed logs and chat history.
 
-![User Features Demo 2](User_Feature_Demo_2.mp4)
+
+[User Features Demo 2](https://github.com/user-attachments/assets/8fa10c3b-4171-4467-8035-0842b332aa88)
 
 - **Audio Assistance**: Users can interact with the chatbot using voice commands. Processes spoken input and provides appropriate responses.
 - **Image Generation**: Generates images based on user-provided text prompts. Leverages an AI-based image generation model.
@@ -41,7 +42,7 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ---
 ### Architecture 
-![View Architecture](System_Architecture.png)
+![System Architecture](https://github.com/user-attachments/assets/87376cfc-711e-4bc1-a8db-eb39c6135e6f)
 - System Administrator: Manages system settings and Q&A.
 - User (Students): Interacts with the chatbot to play games, request weather updates and ask questions.
 - Chatbot System: Processes user interactions, handles questions and manages system logs.
