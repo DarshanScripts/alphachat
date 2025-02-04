@@ -7,6 +7,7 @@ import random
 import re 
 import os
 import logging
+import requests
 from src.responses import *
 
 # Utility Functions
