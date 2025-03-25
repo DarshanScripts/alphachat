@@ -123,24 +123,13 @@ AlphaChat is a chatbot with a GUI and console interface for real-time conversati
 
 ---
 
-## 📌 Roadmap
--  Expand weather API integration
--  Enhance web management UI
--  Integrate AI-based learning for adaptive interactions
--  Add web scraping and integrated search functionality
--  Enable AI-powered image generation
--  Improve voice interaction for real-time communication
--  Enhance gesture recognition for Raspberry Pi sensors
+## 👨‍💻 Author
+Developed by **Darshan Shah**. Connect with me:
 
----
+- **LinkedIn**: [Darshan Shah](https://www.linkedin.com/in/darshan-shah-tech/)
+- **Facebook**: [DarshanScripts](https://www.facebook.com/DarshanScripts)
+- **GitHub**: [DarshanScripts](https://github.com/DarshanScripts)
+- **Quora**: [Darshan Shah](https://www.quora.com/profile/Darshan-Shah-1056)
+- **Medium**: [DarshanScripts](https://medium.com/@DarshanScripts)
+- **Fiverr**: [DarshanScripts](https://www.fiverr.com/darshanscripts)
 
-## 📜 License
-MIT License. See LICENSE for details.
-
----
-
-Developed with ❤️ by **Darshan Shah**. Let's connect!
-
-- 🔗 **GitHub**: [DarshanScripts](https://github.com/DarshanScripts)
-- 🔗 **Quora**: [Darshan Shah](https://www.quora.com/profile/Darshan-Shah-1056)
-- 🔗 **Medium**: [DarshanScripts](https://medium.com/@DarshanScripts)
